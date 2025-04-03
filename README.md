@@ -160,9 +160,6 @@ Inside backend folder:
 
 ## Useful Links
 
-- This project
-
-  - Github Repo: https://github.com/aayush301/MERN-task-manager
 
 - Official Docs
 
@@ -189,5 +186,6 @@ Inside backend folder:
 
 ## Contact
 
-- Email: aayush5521186@gmail.com
-- Linkedin: https://www.linkedin.com/in/aayush12/
+- Email: lovelypandey2427@gmail.com
+- Linkedin: https://www.linkedin.com/in/lovely-pandey-528511259/
+
